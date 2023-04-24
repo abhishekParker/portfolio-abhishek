@@ -4,53 +4,53 @@ import React from "react";
 const skills = [
   {
     name: "HTML",
-    source: "/../public/assets/skills/html.png",
+    source: "/../public/assets/projects/html.png",
   },
   {
     name: "CSS",
-    source: "/../public/assets/skills/css.png",
+    source: "/../public/assets/projects/css.png",
   },
   {
     name: "JavaScript",
-    source: "/../public/assets/skills/javascript.png",
+    source: "/../public/assets/projects/javascript.png",
   },
 
   {
     name: "Python",
-    source: "/../public/assets/skills/python.png",
+    source: "/../public/assets/projects/python.png",
   },
 
   {
     name: "Tailwind",
-    source: "/../public/assets/skills/tailwind.png",
+    source: "/../public/assets/projects/tailwind.png",
   },
   {
     name: "React",
-    source: "/../public/assets/skills/react.png",
+    source: "/../public/assets/projects/react.png",
   },
   {
     name: "Next",
-    source: "/../public/assets/skills/next.png",
+    source: "/../public/assets/projects/next.png",
   },
   {
     name: "Node",
-    source: "/../public/assets/skills/node.png",
+    source: "/../public/assets/projects/node.png",
   },
   {
     name: "Express",
-    source: "/../public/assets/skills/express.png",
+    source: "/../public/assets/projects/express.png",
   },
   {
     name: "MongoDB",
-    source: "/../public/assets/skills/mongo.png",
+    source: "/../public/assets/projects/mongo.png",
   },
   {
     name: "Github",
-    source: "/../public/assets/skills/github1.png",
+    source: "/../public/assets/projects/github1.png",
   },
   {
     name: "Firebase",
-    source: "/../public/assets/skills/firebase.png",
+    source: "/../public/assets/projects/firebase.png",
   },
 ];
 
