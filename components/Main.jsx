@@ -46,6 +46,16 @@ const Main = () => {
               <BsFillPersonLinesFill />
             </div>
           </div>
+          <button className="mt-6 px-8 py-2 font-medium animate-bounce">
+            <Link
+              href={
+                "https://drive.google.com/file/d/1_mckz_wsltR-_S8ANGzI4lXrY9vc42oZ/view"
+              }
+              target="_blank"
+            >
+              My Resume
+            </Link>
+          </button>
         </div>
       </div>
     </div>

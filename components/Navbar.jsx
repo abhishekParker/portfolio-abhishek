@@ -54,7 +54,7 @@ const Navbar = () => {
     >
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/">
-          <h1 className="text-3xl font-bold text-black tracking-widest">
+          <h1 className="text-3xl font-bold text-black tracking-widest animate-pulse">
             ABHI
           </h1>
         </Link>
