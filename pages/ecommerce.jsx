@@ -35,7 +35,7 @@ const ecommerce = () => {
             also features a react-carousel component that allows users to view
             multiple product images. The use of pre-built components and
             utilities provided by Tailwind CSS helps streamline the development
-            process and ensures consistency in the website's design.
+            process and ensures consistency in the websites design.
           </p>
           <button className="px-8 py-2 mt-4 mr-8">
             <Link
