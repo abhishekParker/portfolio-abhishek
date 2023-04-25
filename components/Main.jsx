@@ -49,7 +49,7 @@ const Main = () => {
           <button className="mt-6 px-8 py-2 font-medium animate-bounce">
             <Link
               href={
-                "https://drive.google.com/file/d/1_mckz_wsltR-_S8ANGzI4lXrY9vc42oZ/view"
+                "https://drive.google.com/file/d/1RDCS9TQsT5pn38eg56v_s2t9VLAHFNn9/view?usp=sharing"
               }
               target="_blank"
             >
